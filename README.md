@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnsemlyyyTheDev
 - 👀 I’m interested in Coding :P
-- 🌱 I’m currently learning Javascript and C#
-- 💞️ I’m looking to collaborate on nothing really
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach me my discord is Unsemlyyy#4500
 
 <!---
